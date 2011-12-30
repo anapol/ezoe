@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.0" language="cs_CZ">
 <context>
     <name>design/admin/content/browse</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Záložky</translation>
     </message>
 </context>
 <context>
@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>File type</source>
-        <translation>Tip souboru</translation>
+        <translation>Typ souboru</translation>
     </message>
     <message>
         <source>Size</source>
@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Typ</translation>
     </message>
 </context>
 <context>
@@ -45,11 +45,11 @@
     <name>design/standard/content/datatype</name>
     <message>
         <source>Disable editor</source>
-        <translation>Zakázat editor</translation>
+        <translation>Skrýt editor</translation>
     </message>
     <message>
         <source>Enable editor</source>
-        <translation>Povolit editor</translation>
+        <translation>Zobrazit editor</translation>
     </message>
 </context>
 <context>
@@ -64,47 +64,47 @@
     </message>
     <message>
         <source>Discard</source>
-        <translation>Vyřadit</translation>
+        <translation>Zahodit koncept</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/search</name>
     <message>
         <source>No results were found when searching for &amp;quot;%1&amp;quot;</source>
-        <translation type="unfinished">Nebyly nalezeny žádné výsledky při hledání &amp;quot;%1&amp;quot;</translation>
+        <translation>Při hledání &amp;quot;%1&amp;quot; nebyly nalezeny žádné výsledky</translation>
     </message>
 </context>
 <context>
     <name>design/standard/content/view</name>
     <message>
         <source>You have no bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné záložky nejsou nastaveny</translation>
     </message>
 </context>
 <context>
     <name>design/standard/error/kernel</name>
     <message>
         <source>Your current user does not have the proper privileges to access this page.</source>
-        <translation>Váš současný uživatel nemá patřičná práva pro vstup na tuto stránku.</translation>
+        <translation>Vaše aktuální přihlášení nemá oprávnění pro vstup na tuto stránku.</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe</name>
     <message>
         <source>Do you want to use the WYSIWYG mode for this textarea?</source>
-        <translation type="unfinished">Chcete použit WYSIWYG režim pro tuto textovou oblast?</translation>
+        <translation>Chcete použit WYSIWYG režim pro tuto textovou oblast?</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished">Použít</translation>
+        <translation>Použít</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished">Vložit</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizovat</translation>
+        <translation>Aktualizovat</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -112,41 +112,41 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zavřít</translation>
+        <translation>Zavřít</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation>Prohlížet</translation>
+        <translation>Procházet</translation>
     </message>
     <message>
         <source>Class</source>
-        <translation>Klasifikovat, třídit, třída, jakost</translation>
+        <translation>Typ objektu</translation>
     </message>
     <message>
         <source>-- Not set --</source>
-        <translation type="unfinished">-- Není nastaveno --</translation>
+        <translation>-- Nenastaveno --</translation>
     </message>
     <message>
         <source>Copy/Cut/Paste is not available in Mozilla and Firefox.
 Do you want more information about this issue?</source>
-        <translation type="unfinished">Není možné Kopírovat/Oříznout/Vložit v Mozilla a Firefox.
+        <translation>Akce kopírovat/vyjmout/vložit nejsou v Mozille a Firefoxu k dispozici.
 Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Currently not supported by your browser, use keyboard shortcuts instead.</source>
-        <translation type="unfinished">V současné době není podporováno Vaším prohlížečem, místo toho použijte klávesové zkratky.</translation>
+        <translation>V současné době není podporováno Vaším prohlížečem, použijte prosím standardní klávesové zkratky.</translation>
     </message>
     <message>
         <source>Sorry, but we have noticed that your popup-blocker has disabled a window that provides application functionality. You will need to disable popup blocking on this site in order to fully utilize this tool.</source>
-        <translation type="unfinished">Omlouváme se, ale všimli jsme si, že Váš popup-blocker deaktivoval okno, které zajišťuje funkčnost aplikace. Je potřeba, abyste zakázal popup blokování na této stránce, aby bylo možné plně využít tento nástroj.</translation>
+        <translation>Vypadá to, že Váš prohlížeč nebo jeho rozšíření deaktivovalo pop-up okno, které je potřeba pro funkčnost této aplikace. Prosím zkontrolujte a případně deaktivujte omezení nobě otevíraných oken těmto stránkám.</translation>
     </message>
     <message>
         <source>Error: Invalid values entered, these are marked in red.</source>
-        <translation type="unfinished">Chyba: Vloženy neplatné hodnoty, jsou označeny červeně.</translation>
+        <translation>Chyba: Vloženy neplatné hodnoty, jsou označeny červeně.</translation>
     </message>
     <message>
         <source>More colors</source>
-        <translation type="unfinished">Více barev</translation>
+        <translation>Více barev</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -154,159 +154,159 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Levý</translation>
+        <translation>Vlevo</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Střed</translation>
+        <translation>Na střed</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Pravý</translation>
+        <translation>Vpravo</translation>
     </message>
     <message>
         <source>Full</source>
-        <translation type="unfinished">Plný</translation>
+        <translation>Zarovnané do bloku</translation>
     </message>
     <message>
         <source>%Y-%m-%d</source>
-        <translation type="unfinished">%Y-%m-%d</translation>
+        <translation>%d-%m-%Y</translation>
     </message>
     <message>
         <source>%H:%M:%S</source>
-        <translation type="unfinished">%H:%M:%S</translation>
+        <translation>%H:%M:%S</translation>
     </message>
     <message>
         <source>Insert date</source>
-        <translation type="unfinished">Vložit datum</translation>
+        <translation>Vložit datum</translation>
     </message>
     <message>
         <source>Insert time</source>
-        <translation type="unfinished">Vložit čas</translation>
+        <translation>Vložit čas</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Vytisknout</translation>
+        <translation>Tisk</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Náhled, prohlédnout si</translation>
+        <translation>Náhled</translation>
     </message>
     <message>
         <source>Direction left to right</source>
-        <translation type="unfinished">Směr z leva do prava</translation>
+        <translation>Směr z leva do prava</translation>
     </message>
     <message>
         <source>Direction right to left</source>
-        <translation type="unfinished">Směr z prava do leva</translation>
+        <translation>Směr z prava do leva</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished">Uložit</translation>
+        <translation>Uložit</translation>
     </message>
     <message>
         <source>Cancel all changes</source>
-        <translation type="unfinished">Zrušit všechny změny</translation>
+        <translation>Zrušit všechny změny</translation>
     </message>
     <message>
         <source>Insert non-breaking space character</source>
-        <translation type="unfinished">Vložit non-breaking znak mezery</translation>
+        <translation>Vložit nezalomitelnou mezeru</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Najít</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation type="unfinished">Najít/Nahradit</translation>
+        <translation>Hledat/Nahradit</translation>
     </message>
     <message>
         <source>Paste as Plain Text</source>
-        <translation type="unfinished">Vložit jako Prostý Text</translation>
+        <translation>Vložit bez formátování</translation>
     </message>
     <message>
         <source>Paste from Word</source>
-        <translation type="unfinished">Vložit z Word</translation>
+        <translation>Vložit z Wordu</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished">Vybrat Vše</translation>
+        <translation>Vybrat vše</translation>
     </message>
     <message>
         <source>Use CTRL+V on your keyboard to paste the text into the window.</source>
-        <translation type="unfinished">Použít CTRL+V na Vaší klávesnici k vložení textu do okna.</translation>
+        <translation>Použijte CTRL+V (CMD+V v OS X) na Vaší klávesnici k vložení textu do okna.</translation>
     </message>
     <message>
         <source>Keep linebreaks</source>
-        <translation type="unfinished">Ponechat mezery mezi řádky</translation>
+        <translation>Zachovat konce řádků</translation>
     </message>
     <message>
         <source>Inserts a new table</source>
-        <translation type="unfinished">Vkládá novou tabulku</translation>
+        <translation>Vloží novou tabulku</translation>
     </message>
     <message>
         <source>Insert row before</source>
-        <translation type="unfinished">Předtím vložit řádek</translation>
+        <translation>Vložit řádek před</translation>
     </message>
     <message>
         <source>Insert row after</source>
-        <translation type="unfinished">Poté vložit řádek</translation>
+        <translation>Vložit řádek za</translation>
     </message>
     <message>
         <source>Delete row</source>
-        <translation type="unfinished">Vymazat řádek</translation>
+        <translation>Vymazat řádek</translation>
     </message>
     <message>
         <source>Insert column before</source>
-        <translation type="unfinished">Předtím vložit sloupec</translation>
+        <translation>Vložit sloupec před</translation>
     </message>
     <message>
         <source>Insert column after</source>
-        <translation type="unfinished">Poté vložit sloupec</translation>
+        <translation>Vložit sloupec za</translation>
     </message>
     <message>
         <source>Remove column</source>
-        <translation type="unfinished">Vyjmout sloupec</translation>
+        <translation>Odstranit sloupec</translation>
     </message>
     <message>
         <source>Split merged table cells</source>
-        <translation type="unfinished">Oddělit sloučené buňky tabulky</translation>
+        <translation>Rozdělit sloučené buňky</translation>
     </message>
     <message>
         <source>Merge table cells</source>
-        <translation>Sloučit buňky tabulky</translation>
+        <translation>Sloučit buňky</translation>
     </message>
     <message>
         <source>Table row properties</source>
-        <translation type="unfinished">Vlastnosti řádku tabulky</translation>
+        <translation>Vlastnosti řádku</translation>
     </message>
     <message>
         <source>Table cell properties</source>
-        <translation type="unfinished">Vlastnosti buňky tabulky</translation>
+        <translation>Vlastnosti buňky</translation>
     </message>
     <message>
         <source>Table properties</source>
-        <translation type="unfinished">Vlastnosti tabulky</translation>
+        <translation>Vlastnosti tabulky</translation>
     </message>
     <message>
         <source>Paste table row before</source>
-        <translation type="unfinished">Předtím vložit řádek tabulky</translation>
+        <translation>Vložit řádek tabulky před</translation>
     </message>
     <message>
         <source>Paste table row after</source>
-        <translation type="unfinished">Poté vložit řádek tabulky</translation>
+        <translation>Vložit řádek tabulky za</translation>
     </message>
     <message>
         <source>Cut table row</source>
-        <translation type="unfinished">Oříznout řádek tabulky</translation>
+        <translation>Vyjmout řádek</translation>
     </message>
     <message>
         <source>Copy table row</source>
-        <translation type="unfinished">Kopírovat řádek tabulky</translation>
+        <translation>Kopírovat řádek</translation>
     </message>
     <message>
         <source>Delete table</source>
-        <translation type="unfinished">Vymazat tabulku</translation>
+        <translation>Smazat tabulku</translation>
     </message>
     <message>
         <source>Row</source>
@@ -330,284 +330,279 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>The changes you made will be lost if you navigate away from this page.</source>
-        <translation type="unfinished">Změny, které jste provedly, budou ztraceny, pokud opustíte tuto stránku.</translation>
+        <translation>Provedené změny budou ztraceny pokud opustíte tuto stránku.</translation>
     </message>
     <message>
         <source>Toggle fullscreen mode</source>
-        <translation type="unfinished">Klíčový režim plného obrazu</translation>
+        <translation>Přepnout celoobrazovkový režim</translation>
     </message>
     <message>
         <source>Insert / edit embedded media</source>
-        <translation type="unfinished">Vložit / editovat uložená média</translation>
+        <translation>Přidat nebo upravit vložený obrázek nebo jiná média</translation>
     </message>
     <message>
         <source>Edit embedded media</source>
-        <translation type="unfinished">Editovat uložená média</translation>
+        <translation>Upravit vložený obrázek, média</translation>
     </message>
     <message>
         <source>Document properties</source>
-        <translation type="unfinished">Vlastnosti dokumentu</translation>
+        <translation>Vlastnosti dokumentu</translation>
     </message>
     <message>
         <source>Insert predefined template content</source>
-        <translation type="unfinished">Vložit předdefinovanou šablonu obsahu</translation>
+        <translation>Vložit obsah určený šablonou</translation>
     </message>
     <message>
         <source>Visual control characters on/off.</source>
-        <translation type="unfinished">Vizuální ovládací znaky on/off.</translation>
+        <translation>Přepnout zobrazení neviditelných znaků.</translation>
     </message>
     <message>
         <source>Insert page break.</source>
-        <translation type="unfinished">Vložit zlom stránky.</translation>
+        <translation>Vložit zalomení stránky.</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished">Styly</translation>
+        <translation>Styly</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished">Formát</translation>
+        <translation>Formát</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation type="unfinished">Odstavec</translation>
+        <translation>Odstavec</translation>
     </message>
     <message>
         <source>Div</source>
-        <translation type="unfinished">Div</translation>
+        <translation>Div</translation>
     </message>
     <message>
         <source>Literal</source>
-        <translation type="unfinished">Doslovný</translation>
+        <translation>Nefiltrovaný obsah (literal)</translation>
     </message>
     <message>
         <source>Heading 1</source>
-        <translation type="unfinished">Záhlaví 1</translation>
+        <translation>Nadpis 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
-        <translation type="unfinished">Záhlaví 2
-</translation>
+        <translation>Nadpis 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
-        <translation type="unfinished">Záhlaví 3</translation>
+        <translation>Nadpis 3</translation>
     </message>
     <message>
         <source>Heading 4</source>
-        <translation type="unfinished">Záhlaví 4</translation>
+        <translation>Nadpis 4</translation>
     </message>
     <message>
         <source>Heading 5</source>
-        <translation type="unfinished">Záhlaví 5</translation>
+        <translation>Nadpis 5</translation>
     </message>
     <message>
         <source>Heading 6</source>
-        <translation type="unfinished">Záhlaví 6</translation>
+        <translation>Nadpis 6</translation>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished">Kód</translation>
+        <translation>Kód</translation>
     </message>
     <message>
         <source>Code sample</source>
-        <translation type="unfinished">Vzorový kód</translation>
-    </message>
-    <message>
-        <source>Definition term </source>
-        <translation type="obsolete">Definovaný termín</translation>
+        <translation>Ukázka kódu</translation>
     </message>
     <message>
         <source>Definition description</source>
-        <translation type="unfinished">Definovaný popis</translation>
+        <translation>Popis definice</translation>
     </message>
     <message>
         <source>Bold (Ctrl+B)</source>
-        <translation type="unfinished">Tučné písmo (Ctrl+B)</translation>
+        <translation>Tučně (Ctrl+B)</translation>
     </message>
     <message>
         <source>Italic (Ctrl+I)</source>
-        <translation type="unfinished">Kurzíva (Ctrl+l)</translation>
+        <translation>Kurzíva (Ctrl+l)</translation>
     </message>
     <message>
         <source>Underline (Ctrl+U)</source>
-        <translation type="unfinished">Podtržení (Ctrl+U)</translation>
+        <translation>Podtrženě (Ctrl+U)</translation>
     </message>
     <message>
         <source>Strikethrough</source>
-        <translation type="unfinished">Strikethrough</translation>
+        <translation>Přeškrtnutě</translation>
     </message>
     <message>
         <source>Align left</source>
-        <translation type="unfinished">Zarovnat vlevo</translation>
+        <translation>Zarovnat vlevo</translation>
     </message>
     <message>
         <source>Align center</source>
-        <translation type="unfinished">Vycentrovat</translation>
+        <translation>Zarovnat na střed</translation>
     </message>
     <message>
         <source>Align right</source>
-        <translation type="unfinished">Zarovnat vpravo</translation>
+        <translation>Zarovnat vpravo</translation>
     </message>
     <message>
         <source>Align full</source>
-        <translation type="unfinished">Kompletně zarovnat</translation>
+        <translation>Zarovnat do bloku</translation>
     </message>
     <message>
         <source>Unordered list</source>
-        <translation type="unfinished">Neuspořádaný seznam</translation>
+        <translation>Nečíslovaný seznam</translation>
     </message>
     <message>
         <source>Ordered list</source>
-        <translation type="unfinished">Uspořádaný seznam</translation>
+        <translation>Číslovaný seznam</translation>
     </message>
     <message>
         <source>Outdent</source>
-        <translation type="unfinished">Neodsazený</translation>
+        <translation>Snížit úroveň odsazení</translation>
     </message>
     <message>
         <source>Indent</source>
-        <translation type="unfinished">Odsazený</translation>
+        <translation>Odsadit</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished">Zpětný krok (Ctrl+Z)</translation>
+        <translation>Zpět (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation type="unfinished">Obnovit (Ctrl+Y)</translation>
+        <translation>Znovu (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Insert/edit link</source>
-        <translation type="unfinished">Vložit/editovat odkaz</translation>
+        <translation>Vložit/upravit odkaz</translation>
     </message>
     <message>
         <source>Unlink</source>
-        <translation type="unfinished">Unlink</translation>
+        <translation>Odebrat odkaz</translation>
     </message>
     <message>
         <source>Insert/edit image</source>
-        <translation type="unfinished">Vložit/editovat obrázek</translation>
+        <translation>Vložit/upravit obrázek</translation>
     </message>
     <message>
         <source>Insert/edit object</source>
-        <translation type="unfinished">Vložit/editovat objekt</translation>
+        <translation>Vložit/upravit objekt</translation>
     </message>
     <message>
         <source>Insert custom tag</source>
-        <translation type="unfinished">Vložit uživatelský tag</translation>
+        <translation>Vložit speciální značku</translation>
     </message>
     <message>
         <source>Insert literal text</source>
-        <translation type="unfinished">Vložit doslovný text</translation>
+        <translation>Vložit nefiltrovaný kód/text</translation>
     </message>
     <message>
         <source>Insert pagebreak</source>
-        <translation type="unfinished">Vložit zlom stránky</translation>
+        <translation>Vložit zalomení stránky</translation>
     </message>
     <message>
         <source>Cleanup messy code</source>
-        <translation type="unfinished">Vyčistit neuspořádaný kód</translation>
+        <translation>Vyčistit neuspořádaný kód</translation>
     </message>
     <message>
         <source>Edit HTML Source</source>
-        <translation type="unfinished">Editovat zdroj HTML</translation>
+        <translation>Editovat HTML zdroj</translation>
     </message>
     <message>
         <source>Subscript</source>
-        <translation type="unfinished">Index</translation>
+        <translation>Index</translation>
     </message>
     <message>
         <source>Superscript</source>
-        <translation type="unfinished">Horní index</translation>
+        <translation>Horní index</translation>
     </message>
     <message>
         <source>Remove formatting</source>
-        <translation type="unfinished">Odstranit formátování</translation>
+        <translation>Odstranit formátování</translation>
     </message>
     <message>
         <source>Your custom description here</source>
-        <translation type="unfinished">Váš uživatelský popis zde</translation>
+        <translation>Váš speciální popis zde</translation>
     </message>
     <message>
         <source>Insert special character</source>
-        <translation type="unfinished">Vložit speciální znak</translation>
+        <translation>Vložit speciální znak</translation>
     </message>
     <message>
         <source>Toggle guidelines/invisible elements</source>
-        <translation type="unfinished">Změnit klíčové pokyny/neviditelné znaky</translation>
+        <translation>Přepnout vodící čáry/neviditelné znaky</translation>
     </message>
     <message>
         <source>Insert/edit anchor</source>
-        <translation type="unfinished">Vložit/editovat kotvu</translation>
+        <translation>Vložit/upravit kotvu</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished">Oříznout</translation>
+        <translation>Vyjmout</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopírovat</translation>
+        <translation>Kopírovat</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished">Vložit</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <source>Image properties</source>
-        <translation type="unfinished">Vlastnosti obrázku</translation>
+        <translation>Vlastnosti obrázku</translation>
     </message>
     <message>
         <source>New document</source>
-        <translation type="unfinished">Nový dokument</translation>
+        <translation>Nový dokument</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Pomoc</translation>
+        <translation>Nápověda</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished">Cesta</translation>
+        <translation>Cesta</translation>
     </message>
     <message>
         <source>Are you sure you want clear all contents?</source>
-        <translation type="unfinished">Jste si jisti, že chcete vymazat celý obsah?</translation>
+        <translation>Jste si jisti, že chcete vymazat celý obsah?</translation>
     </message>
     <message>
         <source>Jump to tool buttons - Alt+Q, Jump to editor - Alt-Z, Jump to element path - Alt-X</source>
-        <translation type="unfinished">Přeskočit do ovládacích tlačítek - Alt+Q, Přeskočit do editoru - Alt-Z, Přeskočit do základní cesty - Alt-X</translation>
+        <translation>Přeskočit do ovládacích tlačítek - Alt+Q, Přeskočit do editoru - Alt-Z, Přeskočit do cesty prvků- Alt-X</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished">Další</translation>
+        <translation>Další</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished">Předešlý</translation>
+        <translation>Předchozí</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished">Vybrat</translation>
+        <translation>Vybrat</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Typ/Psát</translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <source>About</source>
-        <translation>O</translation>
+        <translation>O aplikaci</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>Licence/Povolit/Oprávnit</translation>
+        <translation>Licence</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Zapojení</translation>
+        <translation>Zásuvné moduly</translation>
     </message>
     <message>
         <source>Plugin</source>
-        <translation type="unfinished">Zapojení</translation>
+        <translation>Zásuvný modul</translation>
     </message>
     <message>
         <source>Author</source>
@@ -619,47 +614,47 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Loaded plugins</source>
-        <translation type="unfinished">Nahraná zapojení</translation>
+        <translation>Aktivní zásuvné moduly</translation>
     </message>
     <message>
         <source>HTML Source Editor</source>
-        <translation type="unfinished">Editor zdroje HTML</translation>
+        <translation>Editor HTML zdroje</translation>
     </message>
     <message>
         <source>Word wrap</source>
-        <translation type="unfinished">Zalomení textu</translation>
+        <translation>Zalomení textu</translation>
     </message>
     <message>
         <source>Select a color</source>
-        <translation type="unfinished">Vybrat barvu</translation>
+        <translation>Vybrat barvu</translation>
     </message>
     <message>
         <source>Picker</source>
-        <translation type="unfinished">Sběrač</translation>
+        <translation>Nástroj výběru</translation>
     </message>
     <message>
         <source>Color picker</source>
-        <translation type="unfinished">Sběrač barev</translation>
+        <translation>Nástroj výběru barvy</translation>
     </message>
     <message>
         <source>Palette</source>
-        <translation type="unfinished">Paleta</translation>
+        <translation>Paleta</translation>
     </message>
     <message>
         <source>Palette colors</source>
-        <translation type="unfinished">Paleta barev</translation>
+        <translation>Barvy palety</translation>
     </message>
     <message>
         <source>Named</source>
-        <translation type="unfinished">Pojmenovaný</translation>
+        <translation>Podle jména</translation>
     </message>
     <message>
         <source>Named colors</source>
-        <translation type="unfinished">Pojmenované barvy</translation>
+        <translation>Pojmenované barvy</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished">Barva</translation>
+        <translation>Barva</translation>
     </message>
     <message>
         <source>Name</source>
@@ -667,7 +662,7 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Select special character</source>
-        <translation type="unfinished">Vybrat speciální znak</translation>
+        <translation>Vybrat speciální znak</translation>
     </message>
     <message>
         <source>All</source>
@@ -683,11 +678,11 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Pohled</translation>
+        <translation>Zobrazení</translation>
     </message>
     <message>
         <source>Inline</source>
-        <translation>V řadě za sebou</translation>
+        <translation>V řádku</translation>
     </message>
     <message>
         <source>Title</source>
@@ -695,15 +690,15 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Vyrovnat</translation>
+        <translation>Začít prvkem</translation>
     </message>
     <message>
         <source>Limit</source>
-        <translation>Limit</translation>
+        <translation>Počet prvků</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation>ID/Identifikátor</translation>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Href</source>
@@ -723,23 +718,15 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Tag</source>
-        <translation>Tag</translation>
+        <translation>Značka</translation>
     </message>
     <message>
         <source>OK</source>
         <translation>OK</translation>
     </message>
     <message>
-        <source>Anchor properties</source>
-        <translation type="obsolete">Kotevní vlastnosti</translation>
-    </message>
-    <message>
         <source>Properties</source>
         <translation>Vlastnosti</translation>
-    </message>
-    <message>
-        <source>Custom tag properties</source>
-        <translation type="obsolete">Uživatelské vlastnosti tag</translation>
     </message>
     <message>
         <source>Related content</source>
@@ -747,7 +734,7 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Crop</source>
-        <translation>Odřezat</translation>
+        <translation>Oříznutí</translation>
     </message>
     <message>
         <source>None</source>
@@ -755,35 +742,15 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Switch embed image</source>
-        <translation>Přeměnit uložený obrázek</translation>
+        <translation>Změnit vložený obrázek</translation>
     </message>
     <message>
         <source>Switch embed object</source>
-        <translation>Přeměnit uložený objekt</translation>
-    </message>
-    <message>
-        <source>Heading Properties</source>
-        <translation type="obsolete">Hlavní Vlastnosti</translation>
-    </message>
-    <message>
-        <source>Link properties</source>
-        <translation type="obsolete">Vlastnosti spojení</translation>
-    </message>
-    <message>
-        <source>Table Properties</source>
-        <translation type="obsolete">Vlastnosti Tabulky</translation>
-    </message>
-    <message>
-        <source>Cell Properties</source>
-        <translation type="obsolete">Vlastnosti Buňky</translation>
+        <translation>Změnit vložený objekt</translation>
     </message>
     <message>
         <source>Apply to</source>
         <translation>Aplikovat na</translation>
-    </message>
-    <message>
-        <source>Upload new</source>
-        <translation type="obsolete">Nahrát nový</translation>
     </message>
     <message>
         <source>File</source>
@@ -799,7 +766,7 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation>Titul/Zahlaví/Hlavička/Text/Legenda/Nadpis</translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>Description</source>
@@ -807,11 +774,11 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Upload local file</source>
-        <translation>Nahrát místní soubor</translation>
+        <translation>Nahrát soubor</translation>
     </message>
     <message>
         <source>Upload is in progress, it may take a few seconds...</source>
-        <translation>Probíhá nahrávání, to může trvat několik vteřin...</translation>
+        <translation>Probíhá nahrávání, prosím vyčkejte...</translation>
     </message>
     <message>
         <source>Related images</source>
@@ -823,330 +790,330 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>There are no related objects.</source>
-        <translation>Nejsou zde žádné související objekty.</translation>
+        <translation>Žádné související objekty.</translation>
     </message>
     <message>
         <source>Invalid or missing parameter: %parameter</source>
-        <translation type="unfinished">Neplatný nebo chybějící parametr: %parameter</translation>
+        <translation>Neplatný nebo chybějící parametr: %parameter</translation>
     </message>
     <message>
         <source>Invalid parameter: %parameter = %value</source>
-        <translation type="unfinished">Neplatný parametr: %parameter = %value </translation>
+        <translation>Neplatný parametr: %parameter = %value </translation>
     </message>
     <message>
         <source>this</source>
-        <translation type="unfinished"></translation>
+        <translation>tento</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrch</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Spodek</translation>
     </message>
     <message>
         <source>List of possible link types. Link types that use the &apos;://&apos; format are technically called protocols.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam možných typů odkazů.</translation>
     </message>
     <message>
         <source>eznode</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel v eZ Publish</translation>
     </message>
     <message>
         <source>ezobject</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt v eZPublish</translation>
     </message>
     <message>
         <source>Ftp</source>
-        <translation type="unfinished"></translation>
+        <translation>FTP</translation>
     </message>
     <message>
         <source>Http</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>Https</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>MAIL</translation>
     </message>
     <message>
         <source>Anchor</source>
-        <translation type="unfinished"></translation>
+        <translation>Kotva na stránce</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Jiný</translation>
     </message>
     <message>
         <source>Id not valid!</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné ID!</translation>
     </message>
     <message>
         <source>The url the link points to, starts with link type (like http://).</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresa kam odkaz směřuje.</translation>
     </message>
     <message>
         <source>Class are often used to give different design or appearance, either by using a different template, style or both.</source>
-        <translation type="unfinished"></translation>
+        <translation>Třídy jsou běžně používány pro odlišení designu nebo zobrazení prvku.</translation>
     </message>
     <message>
         <source>Lets you specify the target window for the link, if any.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zde je možné specifikovat zvláštní cíl odkazu, jako např. otevření v novém okně atp.</translation>
     </message>
     <message>
         <source>The title on the (x)html tag, used by screen readers, and to give better explanation like this one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Titulek v xhtml značce, který je používán např. hlasovými čtečkami, umožňuje zadání lepšího vysvětlení.</translation>
     </message>
     <message>
         <source>To set the width of the tag, either as percentage by appending % or as pixel size by just using a number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení explicitní šířky značkz. Použijte buď šířku v procentech včetně znaku %, nebo šířku v pixelech jako prosté číslo.</translation>
     </message>
     <message>
         <source>The unique identifier used for the element in the (x)html output, used by style sheets and/or anchors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jedinečný identifikátor xhtml značky který může být použitý pro CSS design nebo ukotvení.</translation>
     </message>
     <message>
         <source>New %tag_name tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Nová značka: %tag_name</translation>
     </message>
     <message>
         <source>Edit %tag_name tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit značku %tag_name</translation>
     </message>
     <message>
         <source>Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt</translation>
     </message>
     <message>
         <source>Node</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel</translation>
     </message>
     <message>
         <source>Relation</source>
-        <translation type="unfinished"></translation>
+        <translation>Relace</translation>
     </message>
     <message>
         <source>Switch embed file</source>
-        <translation type="unfinished"></translation>
+        <translation>Změnit vložený soubor</translation>
     </message>
     <message>
         <source>Edit file</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit soubor</translation>
     </message>
     <message>
         <source>Edit image</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit obrázek</translation>
     </message>
     <message>
         <source>Edit object</source>
-        <translation type="unfinished"></translation>
+        <translation>Upravit objekt</translation>
     </message>
     <message>
         <source>[default]</source>
-        <translation type="unfinished"></translation>
+        <translation>[výchozí]</translation>
     </message>
     <message>
         <source>New window (_blank)</source>
-        <translation type="unfinished"></translation>
+        <translation>Nové okno (_blank)</translation>
     </message>
     <message>
         <source>Table cell</source>
-        <translation type="unfinished"></translation>
+        <translation>Buňka tabulky</translation>
     </message>
     <message>
         <source>Table header</source>
-        <translation type="unfinished"></translation>
+        <translation>Hlavička tabulky</translation>
     </message>
     <message>
         <source>Upload new File</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrát nový soubor</translation>
     </message>
     <message>
         <source>There are no related files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné související soubory.</translation>
     </message>
     <message>
         <source>Upload new Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrát nový obrázek</translation>
     </message>
     <message>
         <source>Alternative text</source>
-        <translation type="unfinished"></translation>
+        <translation>Textová alternativa obrázku</translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation type="unfinished"></translation>
+        <translation>Štítky</translation>
     </message>
     <message>
         <source>There are no related images.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné související obrázky.</translation>
     </message>
     <message>
         <source>Upload new Object</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrát nový objekt</translation>
     </message>
     <message>
         <source>Run spell checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustit kontrolu pravopisu</translation>
     </message>
     <message>
         <source>ieSpell not detected. Do you want to install it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>ieSpell není nainstalován, chcete jej nainstalovat nyní?</translation>
     </message>
     <message>
         <source>Horizontale rule</source>
-        <translation type="unfinished"></translation>
+        <translation>Vodorovná čára</translation>
     </message>
     <message>
         <source>Emotions</source>
-        <translation type="unfinished"></translation>
+        <translation>Emotikony</translation>
     </message>
     <message>
         <source>Insert emotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit emotikon</translation>
     </message>
     <message>
         <source>Cool</source>
-        <translation type="unfinished"></translation>
+        <translation>Kůl</translation>
     </message>
     <message>
         <source>Cry</source>
-        <translation type="unfinished"></translation>
+        <translation>Pláč</translation>
     </message>
     <message>
         <source>Embarassed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobouření</translation>
     </message>
     <message>
         <source>Foot in mouth</source>
-        <translation type="unfinished"></translation>
+        <translation>Noha v ústech</translation>
     </message>
     <message>
         <source>Frown</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Innocent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevinný</translation>
     </message>
     <message>
         <source>Kiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Polibek</translation>
     </message>
     <message>
         <source>Laughing</source>
-        <translation type="unfinished"></translation>
+        <translation>Smích</translation>
     </message>
     <message>
         <source>Money mouth</source>
-        <translation type="unfinished"></translation>
+        <translation>Peníze v ústech</translation>
     </message>
     <message>
         <source>Sealed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalepený</translation>
     </message>
     <message>
         <source>Smile</source>
-        <translation type="unfinished"></translation>
+        <translation>Úsměv</translation>
     </message>
     <message>
         <source>Surprised</source>
-        <translation type="unfinished"></translation>
+        <translation>Překvapení</translation>
     </message>
     <message>
         <source>Tongue out</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyplázlý jazyk</translation>
     </message>
     <message>
         <source>Undecided</source>
-        <translation type="unfinished"></translation>
+        <translation>Nerozhodný</translation>
     </message>
     <message>
         <source>Wink</source>
-        <translation type="unfinished"></translation>
+        <translation>Mrknutí</translation>
     </message>
     <message>
         <source>Yell</source>
-        <translation type="unfinished"></translation>
+        <translation>Křík</translation>
     </message>
     <message>
         <source>Paste is now in plain text mode. Click again to toggle back to regular paste mode. After you paste something you will be returned to regular paste mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložení je nyní přepnuto do módu neformátovaného textu. Klikněte znovu pro přepnutí zpět. Jakmile něco vložíte, mód bude změněn zpět na normální.</translation>
     </message>
     <message>
         <source>Paste is now in plain text mode. Click again to toggle back to regular paste mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vkládání je nyní v módu neformátovaného textu. Klikněte znovu pro přepnutí zpět.</translation>
     </message>
     <message>
         <source>Toggle spellchecker</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout kontrolu pravopisu</translation>
     </message>
     <message>
         <source>Spellchecker settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastavení kontroly pravopisu</translation>
     </message>
     <message>
         <source>Ignore word</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorovat slovo</translation>
     </message>
     <message>
         <source>Ignore all</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorovat vše</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Jazyky</translation>
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosím čekejte...</translation>
     </message>
     <message>
         <source>Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Návrhy</translation>
     </message>
     <message>
         <source>No suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné návrhy</translation>
     </message>
     <message>
         <source>No misspellings found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyly nalezeny žádné chyby.</translation>
     </message>
     <message>
         <source>Definition term</source>
-        <translation type="unfinished"></translation>
+        <translation>Termín-definice</translation>
     </message>
     <message>
         <source>Insert/edit file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit/upravit soubor</translation>
     </message>
     <message>
         <source>Insert horizontal ruler</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit vodorovnou čáru</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe/handler</name>
     <message>
         <source>Object %1 does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Objekt %1 neexistuje.</translation>
     </message>
     <message>
         <source>Node %1 does not exist.</source>
-        <translation type="unfinished">Uzel %1 neexistuje.</translation>
+        <translation>Uzel %1 neexistuje.</translation>
     </message>
     <message>
         <source>Node &amp;apos;%1&amp;apos; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzel &amp;apos;%1&amp;apos; neexistuje.</translation>
     </message>
     <message>
         <source>Some objects used in embed(-inline) tags have been deleted and are no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Některé objekty použité v embed(-inline) vložených značkách byly smazány a nejsou již k dispozici. Obsah bude zobrazen bez nich.</translation>
     </message>
 </context>
 <context>
@@ -1162,10 +1129,6 @@ Chcete více informací o tomto problému?</translation>
     <message>
         <source>Make the selected text &lt;i&gt;italic&lt;/i&gt;. If the selected text is &lt;i&gt;italic&lt;/i&gt; already, this button will remove the formating.</source>
         <translation>Učiňte vybraný text &lt;i&gt;italic&lt;/i&gt;. Pokud je již vybraný text &lt;i&gt;italic&lt;/i&gt;, toto tlačítko vyjme formátování.</translation>
-    </message>
-    <message>
-        <source>Make the selected text &lt;u&gt;underline&lt;/u&gt;. This button is only enabled if you have a custom tag named underline, template code to handle underline custom tags is not included in Online Editor.</source>
-        <translation type="obsolete">Učiňte vybraný text &lt;u&gt;underline&lt;/u&gt;. Toto tlačítko je možné použít, pokud máte klientský tag uvedený jako podtržený, vzorový kód k manipulaci podtržení klientského tag nezahrnuje Online Editor.</translation>
     </message>
     <message>
         <source>Create a bullet list. To create a new list item, press &quot;Enter&quot;. To end a list, press &quot;Enter&quot; key on an empty list item. If you click this button when the cursor is on a list item, the formatting will be removed.</source>
@@ -1317,212 +1280,212 @@ Chcete více informací o tomto problému?</translation>
     </message>
     <message>
         <source>Toggle &lt;u&gt;underline&lt;/u&gt; style on the selected text. This button is only enabled if you have a custom tag named underline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout &lt;u&gt;podtržení&lt;/u&gt; na zvýrazněné části textu. Toto tlačítko je povolené jen pouze pokud je definován uživatelská značka pojmenovaná underline.</translation>
     </message>
     <message>
         <source>Toggle &lt;sub&gt;subscript&lt;/sub&gt; style on the selected text. This button is only enabled if you have a custom tag named subscript, template code to handle subscript custom tags is not included in Online Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout &lt;sub&gt;index&lt;/sub&gt; na zvýrazněném textu. Tlačítko dostupné pouze pokud existuje uživatelská značka pojmenovaná subscript.</translation>
     </message>
     <message>
         <source>Toggle &lt;sup&gt;superscript&lt;/sup&gt; style on the selected text. This button is only enabled if you have a custom tag named superscript, template code to handle superscript custom tags is not included in Online Editor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout &lt;sup&gt;horní index&lt;/sup&gt; na zvýrazněném textu. Tlačítko dostupné pouze pokud existuje uživatelská značka pojmenovaná superscript.</translation>
     </message>
     <message>
         <source>Toggle left align text, or float block content to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout zarovnání textu nebo bloku obsahu vlevo.</translation>
     </message>
     <message>
         <source>Toggle center align text, or float block content to the center (Same as not aligned by default).</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout zarovnání textu nebo bloku obsahu na střed (stejné jako výchozí).</translation>
     </message>
     <message>
         <source>Toggle right align text, or float block content to the right.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout zarovnání textu nebo bloku obsahu vpravo.</translation>
     </message>
     <message>
         <source>Toggle justify text, stretches the lines so that each line has equal width.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepnout zarovnání do bloku. Roztáhne řádky odstavce tak, že každý má stejnou šířku.</translation>
     </message>
     <message>
         <source>Insert an file from the related file list, upload a new file, search for an existing file or browse for it. To upload a local file, click &quot;Upload new&quot; button choose the local file, specify the name of the new file, choose placement from list and then click &quot;Upload&quot; button. This button is not enabled by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vložit soubor ze seznamu souvisejících souborů, nahrát nový soubor, hledat soubor v eZ Publish. K nahrání souboru, klikněte na &quot;Nahrát nový&quot;. Toto tlačítko není ve výchozím nastavení povoleno.</translation>
     </message>
     <message>
         <source>Allows you to spellcheck your text using google api or other depending on ezoe.ini settings. This button is not enabled by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umožňujě kontrolu pravopisu použitím google api nebo jiných metod dle nastavení v ezoe.ini. Tlačítko není ve výchozím nastavení povoleno.</translation>
     </message>
     <message>
         <source>Find a string or a word in your text. This button is not enabled by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Najít výraz v textu. Tlačítko není ve výchozím nastavení povoleno.</translation>
     </message>
     <message>
         <source>Replace a string or a word in your text. This button is not enabled by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahradit výraz v textu. Tlačítko není ve výchozím nastavení povoleno.</translation>
     </message>
     <message>
         <source>Dialog to paste text from word, the dialog will handle cleaning the content from word.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dialog na vložení textu z Wordu - umožňuje lepší přenesení formátování textu z Wordu.</translation>
     </message>
     <message>
         <source>Browse for a node / object in your bookmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vybrat uzel nebo objekt z vašich eZ Publish záložek.</translation>
     </message>
     <message>
         <source>You can switch text style from paragraph to header using keybord shortcut CTRL+1 to 6, and back to paragraph using CTRL+7</source>
-        <translation type="unfinished"></translation>
+        <translation>Přepínat mezi styly odstavce a hlaviček můžete pomocí klávesových zkratek CTRL+1 až 6 a zpět k stylu odstavce pomocí CTRL+7</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe/searchreplace</name>
     <message>
         <source>Find again</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledan znovu</translation>
     </message>
     <message>
         <source>The search has been completed. The search string could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledání bylo dokončeno. Hledaný výraz nebyl nalezen.</translation>
     </message>
     <message>
         <source>Find</source>
-        <translation type="unfinished">Najít</translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Find/Replace</source>
-        <translation type="unfinished">Najít/Nahradit</translation>
+        <translation>Hledat a nahradit</translation>
     </message>
     <message>
         <source>All occurrences of the search string were replaced.</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny výskyty hledaného výrazu byly nahrazeny.</translation>
     </message>
     <message>
         <source>Find what</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat</translation>
     </message>
     <message>
         <source>Replace with</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahradit</translation>
     </message>
     <message>
         <source>Direction</source>
-        <translation type="unfinished"></translation>
+        <translation>Směr hledání</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahoru</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolů</translation>
     </message>
     <message>
         <source>Match case</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozlišovat velká-malá písmena</translation>
     </message>
     <message>
         <source>Find next</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat další</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahradit</translation>
     </message>
     <message>
         <source>Replace all</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahradit vše</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe/validator</name>
     <message>
         <source>&amp;quot;%label&amp;quot; is required and must have a value</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; je vyžadováno, zadejte hodnotu</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be a valid number</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být číslo</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be a valid integer number</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být celé číslo</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be a valid absolute url address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být platná absolutní url adresa</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být platná emailová adresa</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be a valid css size/unit value</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být platná hodnota css velikosti</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be a valid html element id</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být platné id html prvku</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be higher then %min</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být větší než %min</translation>
     </message>
     <message>
         <source>&amp;quot;%label&amp;quot; must be lower then %max</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;quot;%label&amp;quot; musí být menší než %max</translation>
     </message>
 </context>
 <context>
     <name>design/standard/ezoe/wai</name>
     <message>
         <source>Enter the word you want to search for here, for instance the name of the content you are looking for.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zde vložte slovo které chcete hledat.</translation>
     </message>
     <message>
         <source>Lets you limit the content type your searching for, by limiting the eZ Publish content classes that are returned in the search result.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umožňuje omezit výsledky hledání specifikováním typů objektů ke hledání.</translation>
     </message>
     <message>
         <source>Name for the uploaded object, filename is used if none is specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jméno nahrávaného objektu. Pokud není zadáno, použije se název souboru.</translation>
     </message>
     <message>
         <source>Choose file to upload from your local machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vyberte soubor k nahrátí.</translation>
     </message>
     <message>
         <source>Lets you specify where in eZ Publish to store the uploaded object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umožňuje určit, kde bude nahrávaný soubor v eZ Publish uložen.</translation>
     </message>
     <message>
         <source>Upload file from your local machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrát soubor.</translation>
     </message>
     <message>
         <source>Search for content already in eZ Publish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hledat obsah který již je v eZ Publish.</translation>
     </message>
     <message>
         <source>Browse the content tree in eZ Publish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Procházet strom obsahu v eZ Publish.</translation>
     </message>
     <message>
         <source>Select or browse content among your personal eZ Publish bookmarks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvolte nebo procházejte obsah vašich osobních eZ Publish záložek.</translation>
     </message>
     <message>
         <source>Description to the file your uploading, so internet clients can read more about it before they decide to download it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Popis souboru, který nahráváte.</translation>
     </message>
     <message>
         <source>Alternative text for the image, lets internet clients know what kind of image this is without dowloading it or actually seeing it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Textová alternativa k obrázku.</translation>
     </message>
     <message>
         <source>Caption for a image is usually shown bellow it as a description to the image.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda obrázku.</translation>
     </message>
     <message>
         <source>Tags, aka Keywords are a comma separated list of words thats categorizes the content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Štítky neboli klíčová slova, což je čárkami oddělený seznam výrazů, které kategorizují obsah.</translation>
     </message>
 </context>
 <context>
@@ -1533,39 +1496,24 @@ Chcete více informací o tomto problému?</translation>
     </message>
 </context>
 <context>
-    <name>handlers/input</name>
-    <message>
-        <source>Node %1 does not exist.</source>
-        <translation type="obsolete">Uzel %1 neexistuje.</translation>
-    </message>
-    <message>
-        <source>Node &apos;%1&apos; does not exist.</source>
-        <translation type="obsolete">Uzel &apos;%1&apos; neexistuje.</translation>
-    </message>
-</context>
-<context>
     <name>kernel/classes/datatypes</name>
     <message>
-        <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="obsolete">Neplatná e-mailová adresa: &apos;%1&apos;</translation>
-    </message>
-    <message>
         <source>Content required</source>
-        <translation type="unfinished">Požadovaný obsah</translation>
+        <translation>Je vyžadován obsah</translation>
     </message>
 </context>
 <context>
     <name>kernel/classes/datatypes/ezxmltext</name>
     <message>
         <source>Invalid e-mail address: &apos;%1&apos;</source>
-        <translation type="unfinished">Neplatná e-mailová adresa: &apos;%1&apos;</translation>
+        <translation>Neplatná e-mailová adresa: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>kernel/content</name>
     <message>
         <source>Top Level Nodes</source>
-        <translation type="unfinished">Uzly nejvyšší úrovně</translation>
+        <translation>Uzly nejvyšší úrovně</translation>
     </message>
 </context>
 </TS>
